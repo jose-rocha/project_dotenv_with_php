@@ -1,0 +1,20 @@
+{
+    "name": "jose/diversos",
+    "description": "Aprendizado",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Jose\\Diversos\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "José Rocha",
+            "email": "josemarlerocha@hotmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "vlucas/phpdotenv": "^5.6@dev"
+    }
+}
